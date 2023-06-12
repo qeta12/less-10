@@ -245,7 +245,6 @@ footer {
     gap: 33px;
 }
 .links {
-    width: ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -314,4 +313,61 @@ footer {
     flex-direction: column;
     gap: 23px;
     margin-left: 74px;
+}
+@media screen and (max-width: 880px) {
+    .contact,
+    .photos {
+        margin-left: 10px;
+       
+    }
+    
+    .box {
+        flex-direction: column;
+        margin-left: 0;
+        margin-right: 20px;
+    }
+    
+    .description,
+    .details,
+    .send {
+        width: 100%;
+        margin-left: 10px;
+    }
+    .contact-list {
+        width: 50%;
+    }
+    .email {
+        margin-left: 300px;
+    }
+    .email, 
+    .phone, 
+    .location {
+        width: 100%;
+        flex-direction: column;
+        gap: 0px;
+
+    }
+    .container {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    footer {
+        width: 100%;
+        padding-left: 10px;
+    }
+    .hotel, 
+    .zetta,
+     {
+        width: 100%;
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding-left: 10px;
+
+    }
+    .links,
+    .privacy,
+    .contact-info {
+        width: 100%;
+        padding-left: 10px;
+    }
 }
