@@ -1,0 +1,317 @@
+.contact {
+    margin-top: 52px;
+    margin-left: 139px;
+}
+.contact span {
+    color: #5863F8;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.contact h2 {
+    width: 376px;
+    color: #000000;
+    font-size: 42px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    line-height: 63px;
+    margin-bottom: 50px;
+}
+.inputs {
+   
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.box {
+    width: 1366px;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 139px;
+    gap: 16px;
+}
+.description {
+    width: 720px;
+    height: 288px;
+    background-color: #E8E8E8;
+    color: #CECECE;
+    font-size: 13px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border: none;
+}
+.info {
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+    gap: 16px;
+    flex-direction: column;
+}
+.details {
+    width: 352px;
+    height: 60px;
+    background-color: #E8E8E8;
+    color: #CECECE;
+    font-size: 13px;
+    padding: 20px 282px 20px 20px;
+    border: none;
+}
+.send {
+    width: 352px;
+    height: 60px;
+    background-color: #5863F8;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 20px 158px 19px 158px;
+    border: none;
+}
+.contact-list {
+    width: 1366px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+    margin-top: 50px;
+    gap: 100px;
+}
+.email {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    
+}
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    background-color: #5863F8;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    margin-left: 140px;
+}
+.email h2 {
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-left: 145px;
+}
+.email span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #B1B1B1;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-left: 124px;
+}
+.email .span {
+    margin-left: 134px;
+}
+.phone {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.phone h2 {
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-left: 145px;
+}
+.phone span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #B1B1B1;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-left: 124px;
+}
+.phone .span {
+    margin-left: 134px;
+}
+
+
+.location {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.location h2 {
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-left: 145px;
+}
+.location span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #B1B1B1;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-left: 124px;
+}
+.location .span {
+    margin-left: 134px;
+}
+
+.photos {
+    margin-top: 52px;
+    margin-left: 139px;
+}
+.photos span {
+    color: #5863F8;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.photos h2 {
+    width: 551px;
+    color: #000000;
+    font-size: 42px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    line-height: 63px;
+    margin-bottom: 50px;
+}
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    gap: 85px;
+    margin-left: 70px;
+}
+footer {
+    margin-top: 50px;
+    width: 1366px;
+    height: 305px;
+    background-color: #121212;
+    padding-left: 140px;
+}
+.hotel {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+}
+.hotel .zetta {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.zetta h2 {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    padding-top: 63px;
+}
+.zetta p {
+    color: #B1B1B1;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    width: 264px;
+    height: 84px;
+    margin-top: 20px;
+    
+}
+.zetta .icons {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: row;
+    gap: 33px;
+}
+.links {
+    width: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 200px;
+}
+.links h2 {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 40px;
+
+}
+.useful {
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    color: #B1B1B1;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.useful .blog {
+    color: #5863F8;
+}
+.privacy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 122px;
+}
+.privacy h2 {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 40px;
+
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 72px;
+}
+.contact-info h2 {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.contact-info div {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+    margin-left: 74px;
+}
